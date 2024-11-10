@@ -11,6 +11,10 @@ Planned Improvements:
 ✅extrude holes for lanyard
 
 -how about a center mount for single clip lanyards?
+
+v1.1 toggles and lanyard hole:
+![IMG_3782 Small](https://github.com/user-attachments/assets/6c43643a-694f-456d-8e25-c219acf6ea43)
+
 ![IMG_3593 Medium](https://github.com/user-attachments/assets/adcb8b88-3002-4aa2-9b33-c409014d1c3a)
 ![IMG_3594 Medium](https://github.com/user-attachments/assets/078e2340-8f25-4b95-a5d1-775e5bbe8a8f)
 ![IMG_3592 Medium](https://github.com/user-attachments/assets/1acdd83e-f177-46a5-ae07-d60fe35414a9)

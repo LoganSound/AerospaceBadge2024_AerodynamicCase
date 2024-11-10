@@ -6,9 +6,11 @@ Planned Improvements:
 
 -extrude a few more holes or thin layers around thick chips that are still pressing on case (see bulge)
 
--Improve toggle design for less stress
+✅Improve toggle design for less stress
 
--extrude holes for lanyard
+✅extrude holes for lanyard
+
+-how about a center mount for single clip lanyards?
 ![IMG_3593 Medium](https://github.com/user-attachments/assets/adcb8b88-3002-4aa2-9b33-c409014d1c3a)
 ![IMG_3594 Medium](https://github.com/user-attachments/assets/078e2340-8f25-4b95-a5d1-775e5bbe8a8f)
 ![IMG_3592 Medium](https://github.com/user-attachments/assets/1acdd83e-f177-46a5-ae07-d60fe35414a9)

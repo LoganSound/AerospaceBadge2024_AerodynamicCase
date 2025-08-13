@@ -2,8 +2,8 @@ Lightweight case that has an integrated kickstand!
 
 Planned Improvements:
 
--fully model the cover, bezel dimensions here: https://github.com/AerospaceVillage/avBadge_2024/blob/main/bezel.stl
-
+-fully model the cover, bezel dimensions here: [https://github.com/AerospaceVillage/avBadge_2024/blob/main/bezel.stl
+](https://github.com/AerospaceVillage/avBadge_2024/blob/main/hardware/bezel.stl)
 -extrude a few more holes or thin layers around thick chips that are still pressing on case (see bulge)
 
 ✅Improve toggle design for less stress
